@@ -1,6 +1,6 @@
-***Autores: Sofia Martí Rodríguez i Reina Peiró Arnau***
-*Mòdul: DWEC - Desenvolupament Web en Entorn Client*
-*2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*
+***Autores: Sofia Martí Rodríguez i Reina Peiró Arnau***  
+*Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
+*2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
 
 # Karma Cli - Quin Karma tinc huí?
