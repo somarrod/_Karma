@@ -30,4 +30,5 @@ Els objectius estan alineats amb les competències professionals del cicle forma
    - **recursos**:
 		- **requisits**: en aquest directori els alumnes tindran els requisits de Karma. 	
 		- **docker**: document d'instalació de docker i dels passos a seguir per a tenir disponible *KarmaWebApi* i *KarmaDB* 
+   -  **tutorials**: en README.md s'identifiquen els tutorials que utilitzarem durant el curs. 
 
