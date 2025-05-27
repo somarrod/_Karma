@@ -1,9 +1,7 @@
+# Karma Cli - Quin Karma tinc huí?
 ***Autores: Sofia Martí Rodríguez i Reina Peiró Arnau***  
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
-
-
-# Karma Cli - Quin Karma tinc huí?
 
 ## Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat Karma Cli utilitzant el framework Angular. El desenvolupament de Karma Cli permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
@@ -22,7 +20,14 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - Fomentar l’aprenentatge al llarg de la vida, aprofitant recursos TIC.
 
 ## Estructura del repositori
-- professorat: documentació i informació per al professor
-  - _recursos_originals: documents originals utilitzats en el projecte per a que els docents poguen modificar-los si ho necessiten. Documents originals en format: docx, xlsx, codi font de *KarmaWebApi*, etc. 
+- **professorat**: documentació i informació per al professor
+  - **_recursos_originals**: documents originals utilitzats en el projecte per a que els docents poguen modificar-los si ho necessiten. Documents originals en format: docx, xlsx, codi font de *KarmaWebApi*, etc. 
+  - **Guia didàctica professors.pdf**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
+  - **DWEC - RA i CA.pdf**: Resultats d'aprenentatge i criteris d'avaluació de DWEC.
+  - **avaluació --> PENDENT** 
   
-- alumnat: documentació i informació per a l'alumnat
+- **alumnat**: documentació i informació per a l'alumnat
+   - **recursos**:
+		- **requisits**: en aquest directori els alumnes tindran els requisits de Karma. 	
+		- **docker**: document d'instalació de docker i dels passos a seguir per a tenir disponible *KarmaWebApi* i *KarmaDB* 
+
