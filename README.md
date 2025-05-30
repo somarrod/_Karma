@@ -32,8 +32,9 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 		- **docker**: document d'instalació de docker i dels passos a seguir per a tenir disponible *KarmaWebApi* i *KarmaDB* 
    -  **tutorials**: en README.md s'identifiquen els tutorials que utilitzarem durant el curs. 
 
---
-👥 #Com ens hem repartit el treball?  
+------------------------------------------------------------------------------------------------------------  
+
+##👥 Com ens hem repartit el treball?  
 
 - **De forma conjunta**: Cerca de recursos per als alumnes, decisions sobre l'estructura i la funcionalitat a incloure en KarmaWebApi, organització de les sessions, unitats de programació a desenvolupar i entregables.
 - **Sofia Martí**: Creació de l'aplicació KarmaWebApi i proves, presentació en canva inicial per als i les alumnes, descripció de les sessions, rúbriques, ...
