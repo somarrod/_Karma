@@ -2,7 +2,6 @@
 <html lang="ca">
 <head>
   <meta charset="UTF-8">
-  <title>Accés al codi de la Web API</title>
 </head>
 <body>
   <h1>Projecte Web API</h1>
@@ -14,5 +13,8 @@
       🔗 Repositori de KarmaWebApi a GitHub
     </a>
   </p>
+  
+*(Obre l'enllaç en una nova pestanya amb Ctrl + clic o clic dret → Obre en una nova pestanya)*
+
 </body>
 </html>
