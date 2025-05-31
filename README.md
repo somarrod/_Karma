@@ -20,8 +20,9 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - Fomentar l’aprenentatge al llarg de la vida, aprofitant recursos TIC.
 
 ## Estructura del repositori
+- **_recursos_originals**: documents originals utilitzats en el projecte per a que els docents poguen modificar-los si ho necessiten. Es troben en format: docx, xlsx, codi font de *KarmaWebApi*, etc.   
+
 - **professorat**: documentació i informació per al professor
-  - **_recursos_originals**: documents originals utilitzats en el projecte per a que els docents poguen modificar-los si ho necessiten. Documents originals en format: docx, xlsx, codi font de *KarmaWebApi*, etc. 
   - **Guia didàctica professors.pdf**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
   - **DWEC - RA i CA.pdf**: Resultats d'aprenentatge i criteris d'avaluació de DWEC.
   - **avaluació --> PENDENT** 
@@ -30,14 +31,14 @@ Els objectius estan alineats amb les competències professionals del cicle forma
    - **recursos**:
 		- **requisits**: en aquest directori els alumnes tindran els requisits de Karma. 	
 		- **docker**: document d'instalació de docker i dels passos a seguir per a tenir disponible *KarmaWebApi* i *KarmaDB* 
-   -  **tutorials**: en README.md s'identifiquen els tutorials que utilitzarem durant el curs. 
+   -  **tutorials**: es els tutorials/cursos que utilitzarem durant el curs. 
 
 ------------------------------------------------------------------------------------------------------------  
 
-##👥 Com ens hem repartit el treball?  
+## Com ens hem repartit el treball?  
 
-- **De forma conjunta**: Cerca de recursos per als alumnes, decisions sobre l'estructura i la funcionalitat a incloure en KarmaWebApi, organització de les sessions, unitats de programació a desenvolupar i entregables.
-- **Sofia Martí**: Creació de l'aplicació KarmaWebApi i proves, presentació en canva inicial per als i les alumnes, descripció de les sessions, rúbriques, ...
-- **Reina Peiró**: Creació del model Karma, creació de la vista de BD, inclusió en docker i instalació en màquina virtual, guies per a l'alumne. Avaluació, objectius, temporalització, ponderacions.
+- **De forma conjunta**: Cerca de recursos per als alumnes, decisions sobre l'estructura i la funcionalitat a incloure en KarmaWebApi, organització de les sessions, unitats de programació a desenvolupar, sprints i entregables, decisions sobre l'avaluació, ...
+- **Sofia Martí**: Creació de l'aplicació KarmaWebApi i proves, presentació en canva inicial per als i les alumnes, descripció de les sessions, rúbriques, recopilació de resultats d'aprenentatge i criteris d'avaluació, revisió de documentació, ...
+- **Reina Peiró**: Creació del model Karma, creació de la vista de BD, inclusió en docker i instalació en màquina virtual, guia de docker per a l'alumne,  objectius, temporalització, ponderacions, avaluació, presentació per a classe, ...
 
 
