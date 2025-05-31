@@ -1,8 +1,5 @@
 # 🚀 Projecte Karma Cli
 
-**Assignatura:** Desenvolupament Web en Entorn Client  
-**Curs:** 2024-2025
-
 Aquest repositori conté el desenvolupament del projecte **Karma Cli**, una aplicació web creada amb Angular que evoluciona al llarg de cinc sprints. Cada sprint introdueix noves funcionalitats i coneixements relacionats amb el desenvolupament web en entorn client.
 
 ---
@@ -11,7 +8,7 @@ Aquest repositori conté el desenvolupament del projecte **Karma Cli**, una apli
 
 Podeu consultar la presentació general del projecte en el següent enllaç:
 
-👉 [Veure presentació a Canva](https://www.canva.com/design/DAGoqpYSGPA/ALcZVs9NZXRDEVBBVYNWHw/edit del projecte
+👉 (https://www.canva.com/design/DAGoqpYSGPA/ALcZVs9NZXRDEVBBVYNWHw/edit del projecte
 
 
 ### 🧩 Sprint 1 – Disseny inicial i presa de contacte
