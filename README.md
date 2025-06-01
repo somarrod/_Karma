@@ -28,8 +28,8 @@ Els objectius estan alineats amb les competències professionals del cicle forma
   - **avaluació:**  Excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
-   - **recursos**:
-		- **requisits**: en aquest directori els alumnes tindran els requisits de Karma. 	
+   - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**:descripció dels sprints
+		- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen. 	
 		- **docker**: document d'instalació de docker i dels passos a seguir per a tenir disponible *KarmaWebApi* i *KarmaDB* 
    -  **tutorials**: es els tutorials/cursos que utilitzarem durant el curs. 
 
