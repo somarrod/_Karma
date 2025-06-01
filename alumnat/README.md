@@ -8,7 +8,7 @@ Aquest repositori conté el desenvolupament del projecte **Karma Cli**, una apli
 
 Podeu consultar la presentació general del projecte en el següent enllaç:
 
-👉 (https://www.canva.com/design/DAGoqpYSGPA/ALcZVs9NZXRDEVBBVYNWHw/edit del projecte
+👉 (https://www.canva.com/design/DAGoqpYSGPA/ALcZVs9NZXRDEVBBVYNWHw/edit) del projecte
 
 
 ### 🧩 Sprint 1 – Disseny inicial i presa de contacte

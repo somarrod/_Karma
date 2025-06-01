@@ -1,4 +1,4 @@
-# Karma Cli - Quin Karma tinc huí?
+# 🚀 Karma Cli - Quin Karma tinc hui?
 ***Autores: Sofia Martí Rodríguez i Reina Peiró Arnau***  
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
@@ -7,7 +7,7 @@
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat Karma Cli utilitzant el framework Angular. El desenvolupament de Karma Cli permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el codi servidor *KarmaWebApi* i la base de dades *KarmaDB*.
 
-## Objectius del projecte
+## 📽️ Objectius del projecte
 Els objectius estan alineats amb les competències professionals del cicle formatiu. A continuació, es resumeixen els principals:
 
 - Desenvolupar aplicacions web amb accés a bases de dades, utilitzant llenguatges i eines adequades.
@@ -25,7 +25,7 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - **professorat**: documentació i informació per al professor
   - **Guia didàctica professors.pdf**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
   - **DWEC - RA i CA.pdf**: Resultats d'aprenentatge i criteris d'avaluació de DWEC.
-  - **avaluació --> PENDENT** 
+  - **avaluació:**  Excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
    - **recursos**:
@@ -35,7 +35,7 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 
 ------------------------------------------------------------------------------------------------------------  
 
-## Com ens hem repartit el treball?  
+## 🧩 Com ens hem repartit el treball?  
 
 - **De forma conjunta**: Cerca de recursos per als alumnes, decisions sobre l'estructura i la funcionalitat a incloure en KarmaWebApi, organització de les sessions, unitats de programació a desenvolupar, sprints i entregables, decisions sobre l'avaluació, ...
 - **Sofia Martí**: Creació de l'aplicació KarmaWebApi i proves, presentació en canva inicial per als i les alumnes, descripció de les sessions, rúbriques, recopilació de resultats d'aprenentatge i criteris d'avaluació, revisió de documentació, ...
