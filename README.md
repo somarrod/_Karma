@@ -29,9 +29,8 @@ Els objectius estan alineats amb les competències professionals del cicle forma
   
 - **alumnat**: documentació i informació per a l'alumnat
    - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**:descripció dels sprints
-		- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen. 	
-		- **docker**: document d'instalació de docker i dels passos a seguir per a tenir disponible *KarmaWebApi* i *KarmaDB* 
-   -  **tutorials**: es els tutorials/cursos que utilitzarem durant el curs. 
+	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
+	-  **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: es els tutorials/cursos que utilitzarem durant el curs. 
 
 ------------------------------------------------------------------------------------------------------------  
 
