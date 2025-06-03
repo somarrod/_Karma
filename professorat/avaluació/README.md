@@ -1,4 +1,4 @@
-#Com funciona la plantilla? - Guia Pràctica
+# Com funciona la plantilla? - Guia Pràctica
 
 1. Has d'utilitzar una Excel per cada grup que vages a avaluar
 2. En la pestanya 'Evidencies' estan creades les evidències: actualment 1 per sprint.
