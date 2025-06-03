@@ -3,7 +3,7 @@
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
-## Introducció
+## ✨Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat Karma Cli utilitzant el framework Angular. El desenvolupament de Karma Cli permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el codi servidor *KarmaWebApi* i la base de dades *KarmaDB*.
 
