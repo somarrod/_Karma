@@ -7,7 +7,7 @@
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat Karma Cli utilitzant el framework Angular. El desenvolupament de Karma Cli permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el codi servidor *KarmaWebApi* i la base de dades *KarmaDB*.
 
-## 📽️ Objectius del projecte
+## 🎯 Objectius del projecte
 Els objectius estan alineats amb les competències professionals del cicle formatiu. A continuació, es resumeixen els principals:
 
 - Desenvolupar aplicacions web amb accés a bases de dades, utilitzant llenguatges i eines adequades.
@@ -19,18 +19,18 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - Utilitzar llenguatges de marques i estàndards web per desenvolupar interfícies.
 - Fomentar l’aprenentatge al llarg de la vida, aprofitant recursos TIC.
 
-## Estructura del repositori
-- **_recursos_originals**: documents originals utilitzats en el projecte per a que els docents poguen modificar-los si ho necessiten. Es troben en format: docx, xlsx, codi font de *KarmaWebApi*, etc.   
+## 🏗️ Estructura del repositori
+- **_recursos_originals**: documents originals utilitzats en el projecte per a que els docents puguen modificar-los si ho necessiten. Es troben en format: docx, xlsx, codi font de *KarmaWebApi*, etc.   
 
-- **professorat**: documentació i informació per al professor
-  - **Guia didàctica professors.pdf**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
-  - **DWEC - RA i CA.pdf**: Resultats d'aprenentatge i criteris d'avaluació de DWEC.
-  - **avaluació:**  Excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
+- **professorat**: documentació i informació per a la professora del mòdul
+  - **Guia didàctica professorat.pdf**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
+  - **DWEC - RA, CA i Continguts.pdf**: Relació entre els resultats d'aprenentatge, criteris d'avaluació i els continguts del mòdul DWEC.
+  - **avaluació:**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
-   - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**:descripció dels sprints
+   - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
 	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
-	-  **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: es els tutorials/cursos que utilitzarem durant el curs. 
+	-  **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
 
 ------------------------------------------------------------------------------------------------------------  
 
