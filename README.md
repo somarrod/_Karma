@@ -7,6 +7,11 @@
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat Karma Cli utilitzant el framework Angular. El desenvolupament de Karma Cli permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el codi servidor *KarmaWebApi* i la base de dades *KarmaDB*.
 
+## 📑Presentació
+<a href="https://www.canva.com/design/DAGo_iIjeL8/RCssVuZnBtJYSI46sx7P3A/edit?utm_content=DAGo_iIjeL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Veure presentació</a>
+
+
+
 ## 🎯 Objectius del projecte
 Els objectius estan alineats amb les competències professionals del cicle formatiu. A continuació, es resumeixen els principals:
 
