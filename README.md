@@ -30,7 +30,7 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - **professorat**: documentació i informació per a la professora del mòdul
   - **<a href="https://github.com/somarrod/_Karma/blob/main/professorat/Guia%20did%C3%A0ctica%20professorat.pdf" target="_blank">Guia didàctica professorat.pdf</a>**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
   - **<a href="https://github.com/somarrod/_Karma/blob/main/professorat/DWEC%20RA%2C%20CA%20i%20Continguts.pdf" target="_blank">DWEC - RA, CA i Continguts.pdf</a>**: Relació entre els resultats d'aprenentatge, criteris d'avaluació i els continguts del mòdul DWEC.
-  - **<a href="https://github.com/somarrod/_Karma/tree/main/professorat/avaluaci%C3%B3"target="_blank">avaluació:</a>**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
+  - **<a href="https://github.com/somarrod/_Karma/tree/main/professorat/avaluaci%C3%B3" target="_blank">avaluació:</a>**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
    - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
