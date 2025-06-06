@@ -1,7 +1,7 @@
 # 🌐 Projecte Web API - KarmaWebApi
 
 Benvingut/da al repositori del projecte **KarmaWebApi**! Aquest projecte és una Web API desenvolupada per oferir funcionalitats modernes i eficients per a aplicacions web.
-
+ 
 ## 🔗 Enllaç al repositori
 
 Pots accedir al codi font i col·laborar amb el projecte des del següent enllaç:

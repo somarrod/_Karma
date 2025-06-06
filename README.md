@@ -1,15 +1,17 @@
-# 🚀 Karma Cli - Quin Karma tinc hui?
+﻿# 🚀 Karma Cli - Quin Karma tinc hui?
 ***Autores: Sofia Martí Rodríguez i Reina Peiró Arnau***  
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
+##🙏 Agraïments
+Volem expressar el nostre sincer agraïment a l’institut IES Enrique Tierno Galván de Moncada, origen de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
+
 ## ✨Introducció
-Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat Karma Cli utilitzant el framework Angular. El desenvolupament de Karma Cli permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
+Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat *KarmaCli* utilitzant el framework Angular. El desenvolupament de *KarmaCli* permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el codi servidor *KarmaWebApi* i la base de dades *KarmaDB*.
 
 ## 📑Presentació
 Presentació del treball de l'assignatura de Didàctica II: <a href="https://www.canva.com/design/DAGo_iIjeL8/RCssVuZnBtJYSI46sx7P3A/edit?utm_content=DAGo_iIjeL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗Accedir</a>
-
 
 
 ## 🎯 Objectius del projecte
@@ -44,5 +46,3 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - **De forma conjunta**: Cerca de recursos per als alumnes, decisions sobre l'estructura i la funcionalitat a incloure en KarmaWebApi, organització de les sessions, unitats de programació a desenvolupar, sprints i entregables, decisions sobre l'avaluació, ...
 - **Sofia Martí**: Creació de l'aplicació KarmaWebApi i proves, presentació en canva inicial per als i les alumnes, descripció de les sessions, rúbriques, recopilació de resultats d'aprenentatge i criteris d'avaluació, revisió de documentació, ...
 - **Reina Peiró**: Creació del model Karma, creació de la vista de BD, inclusió en docker i instalació en màquina virtual, guia de docker per a l'alumne,  objectius, temporalització, ponderacions, avaluació, presentació per a classe, ...
-
-
