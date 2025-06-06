@@ -4,7 +4,7 @@
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
 ## 🙏 Agraïments
-Volem expressar el nostre sincer agraïment a l’institut IES Enrique Tierno Galván de Moncada, origen de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
+Volem expressar el nostre sincer agraïment a l’institut **IES Enrique Tierno Galván de Moncada**, origen de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
 
 ## ✨Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat *KarmaCli* utilitzant el framework Angular. El desenvolupament de *KarmaCli* permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
