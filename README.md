@@ -3,7 +3,7 @@
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
-##🙏 Agraïments
+## 🙏 Agraïments
 Volem expressar el nostre sincer agraïment a l’institut IES Enrique Tierno Galván de Moncada, origen de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
 
 ## ✨Introducció
