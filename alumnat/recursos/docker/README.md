@@ -1,6 +1,6 @@
 # 🚀 Karma Backend — Guia ràpida per a l'alumnat
 
-Aquestes instruccions et permetran obtindre el backend complet (**API + Base de Dades**) necessari per a treballar en el desenvolupament de la teua client.
+Aquestes instruccions et permetran obtindre el backend complet (**API + Base de Dades**) necessari per a treballar en el desenvolupament de la teua aplicació client.
 
 ---
 

@@ -1,14 +1,15 @@
 ﻿# 🚀 Karma Cli - Quin Karma tinc hui?
-***Autores: Sofia Martí Rodríguez i Reina Peiró Arnau***  
+***Autores: Sofia Martí Rodríguez***  
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
 ## 🙏 Agraïments
-Volem expressar el nostre sincer agraïment a l’institut **IES Enrique Tierno Galván de Moncada**, origen de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
+Vull expressar el meu sincer agraïment a l’institut **IES Camp del Túria de Llíria**, origen del projecte CoDAvant i de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
+També vull expressar el meu agraïment a Reina Peiró Arnau, alumna de MUPES, i que va ser junt a mi autora de la 1ª versió d'aquest projecte KarmaCli enfocat al mòdul de DWEC i als nostres futurs alumnes.
 
 ## ✨Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat *KarmaCli* utilitzant el framework Angular. El desenvolupament de *KarmaCli* permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
-Es proporcionarà a l'alumnat el codi servidor *KarmaWebApi* i la base de dades *KarmaDB*.
+Es proporcionarà a l'alumnat el servidor *KarmaWebApi* i la base de dades *KarmaDB* disponibles mitjançant Docker.
 
 ## 📑Presentació
 Presentació del treball de l'assignatura de Didàctica II: <a href="https://www.canva.com/design/DAGo_iIjeL8/RCssVuZnBtJYSI46sx7P3A/edit?utm_content=DAGo_iIjeL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗Accedir</a>
@@ -38,11 +39,3 @@ Els objectius estan alineats amb les competències professionals del cicle forma
    - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
 	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
 	-  **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
-
-------------------------------------------------------------------------------------------------------------  
-
-## 🧩 Com ens hem repartit el treball?  
-
-- **De forma conjunta**: Cerca de recursos per als alumnes, decisions sobre l'estructura i la funcionalitat a incloure en KarmaWebApi, organització de les sessions, unitats de programació a desenvolupar, sprints i entregables, decisions sobre l'avaluació, ...
-- **Sofia Martí**: Creació de l'aplicació KarmaWebApi i proves, presentació en canva inicial per als i les alumnes, descripció de les sessions, rúbriques, recopilació de resultats d'aprenentatge i criteris d'avaluació, revisió de documentació, ...
-- **Reina Peiró**: Creació del model Karma, creació de la vista de BD, inclusió en docker i instalació en màquina virtual, guia de docker per a l'alumne,  objectius, temporalització, ponderacions, avaluació, presentació per a classe, ...
