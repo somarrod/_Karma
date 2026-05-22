@@ -4,7 +4,7 @@
 - Generar una nova versió del paquet Docker destinat a l'alumnat  
 - Posar en marxa el sistema  
 
-Per a una informació completa, consulta la *Guia per al desplegament del KarmaWebApi mitjançant Docker* disponible en aquest mateix directori.
+Per a una informació completa, consulta la [Guia per al desplegament del KarmaWebApi mitjançant Docker](Guia_Desplegament_KarmaWebApi_Docker.docx), disponible en aquest mateix directori.
 
 ---
 
