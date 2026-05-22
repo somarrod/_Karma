@@ -1,5 +1,6 @@
 ﻿# 🚀 Karma Cli - Quin Karma tinc hui?
-***Autores: Sofia Martí Rodríguez***  
+***Autora: Sofia Martí Rodríguez***  
+***TFM: Desenvolupament del projecte Karma mitjançant una arquitectura client-servidor per a l'alumnat de Desenvolupament Web en Entorn Client.***
 *Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
 *2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
 
