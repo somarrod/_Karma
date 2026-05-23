@@ -1,12 +1,14 @@
 ﻿# 🚀 Karma Cli - Quin Karma tinc hui?
-***Autora: Sofia Martí Rodríguez***  
-***TFM: Desenvolupament del projecte Karma mitjançant una arquitectura client-servidor per a l'alumnat de Desenvolupament Web en Entorn Client.***
-*Mòdul: DWEC - Desenvolupament Web en Entorn Client*  
-*2on del Cicle Superior de DAW - Desenvolupament d'Aplicacions Web*  
+
+> **Autora:** Sofia Martí Rodríguez  
+> **TFM:** Desenvolupament del projecte Karma mitjançant una arquitectura client-servidor per a l’alumnat de Desenvolupament Web en Entorn Client  
+> **Mòdul:** DWEC – Desenvolupament Web en Entorn Client  
+> **Cicle:** 2n de DAW – Desenvolupament d’Aplicacions Web
+``
 
 ## 🙏 Agraïments
 Vull expressar el meu sincer agraïment a l’institut **IES Camp del Túria de Llíria**, origen del projecte CoDAvant i de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
-També vull expressar el meu agraïment a Reina Peiró Arnau, alumna de MUPES, i que va ser junt a mi autora de la 1ª versió d'aquest projecte KarmaCli enfocat al mòdul de DWEC i als nostres futurs alumnes.
+També vull expressar el meu agraïment a **Reina Peiró Arnau**, alumna de MUPES, i que va ser junt a mi, autora de la 1ª versió d'aquest projecte KarmaCli orientat al mòdul de DWEC i als nostres futurs alumnes.
 
 ## ✨Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat *KarmaCli* utilitzant el framework Angular. El desenvolupament de *KarmaCli* permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
