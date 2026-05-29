@@ -91,6 +91,8 @@ L'última setmana, cada equip realitzarà una presentació del seu projecte dava
 
 A partir d’aquestes presentacions, es realitzarà una votació per determinar quin és el projecte amb millors resultats. L’equip guanyador serà el que obtindrà el reconeixement del concurs, i el seu projecte serà utilitzat per a ser implantat en el centre educatiu.
 
+👉 [Consultar bases completes del concurs](./docs/BASES_CONCURS_KARMA.md)
+
 
 ## 📦 Funcionament del projecte
 
