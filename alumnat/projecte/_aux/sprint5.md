@@ -33,9 +33,14 @@ Els objectius principals són:
 
 👉 Aquestos conceptes permeten millorar la qualitat global de l’aplicació.
 
+Referències:
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#optimizacion" target="_blank" rel="noopener noreferrer">Optimització</a>
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#internacionalizacion" target="_blank" rel="noopener noreferrer">Internacionalització</a>
+
+
 ---
 
-### 📘 Internacionalització
+### 📘 Internacionalització 
 
 - Adaptar l’aplicació a diferents idiomes  
 - Utilització de mecanismes de localització  
@@ -71,7 +76,7 @@ Els objectius principals són:
 
 ### 🧑‍💼 3. Gestió de privilegis
 
-- Consultar privilegis d’usuaris  
+- Assignació de privilegis a alumnes o a grups 
 - Ajustar funcionalitats disponibles  
 - Control segons rol  
 
@@ -91,9 +96,9 @@ Els objectius principals són:
 
 ### 📄 5. Informes
 
-- Informes de classe  
-- Informes per grup  
-- Informes per avaluacions  
+- Informes de Karma dels alumnes de la classe  
+- Informes de karma per grup  
+- Informes de karma per alumnes i avaluació
 
 👉 Donen valor real a l’aplicació per al professorat.
 
@@ -114,7 +119,8 @@ Els objectius principals són:
 - Repartiment de funcionalitats finals  
 - Preparació de la presentació  
 
-👉 link: ../../recursos/git-github/README.md
+📄 # Ací pots trobar una guia ràpida de Git i GitHub  
+👉 [Ús Git-GitHub](../../recursos/git-github/README.md)
 
 👉 En aquest sprint és clau:
 - treball conjunt  
@@ -127,7 +133,6 @@ Els objectius principals són:
 
 Aquest és el lliurament final del projecte.
 
----
 
 ### 💻 1. Repositori GitHub
 
@@ -138,42 +143,33 @@ S’haurà d’entregar:
 
 El projecte ha d’incloure:
 
----
 
-#### ✅ Aplicació completa
-
-### 🔐 Gestió de privilegis
+#### 🔐 Gestió de privilegis
 
 - Consultar privilegis  
 - Control d’accés  
 
----
-
-### 📊 Consulta de Karma
+#### 📊 Consulta de Karma
 
 - Karma per alumne  
 - Karma per grup  
 - Visualització visual i intuïtiva  
 
----
+#### 📄 Informes
 
-### 📄 Informes
+- Informes de karma dels alumnes de la classe  
+- Informes de karma per grup  
+- Informes de karma per avaluacions  
 
-- Informes de classe  
-- Informes per grup  
-- Informes per avaluacions  
 
----
-
-### ⚡ Optimització
+#### ⚡ Optimització
 
 - Millores de rendiment  
 - Lazy loading  
 - Optimització de càrrega  
 
----
 
-### 🌍 Internacionalització
+#### 🌍 Internacionalització
 
 - Suport per a diferents idiomes  
 - Adaptació de la interfície  
@@ -188,7 +184,7 @@ Cada grup haurà de:
 - Mostrar les funcionalitats principals  
 - Explicar les decisions preses  
 
-⏱️ Duració:
+⏱️ Duració (25 minuts en total):
 - 18 minuts presentació  
 - 7 minuts preguntes  
 
@@ -205,25 +201,13 @@ Cada alumne haurà d’incloure:
 
 ---
 
-## ✅ Criteris de qualitat
-
-En aquest sprint es valorarà especialment:
-
-- Aplicació completa i funcional  
-- Qualitat visual i d’usabilitat  
-- Rendiment del projecte  
-- Presentació final  
-- Treball en equip  
-
-👉 Es treballen especialment RA3 i RA5 
-
----
-
 ## 📊 Rúbrica d’avaluació
+
+👉 Els criteris d’avaluació que s’avaluen són ***tots els del RA3 i els del RA5***.
 
 Pots consultar la rúbrica completa en:
 
-📥 ./rubriques/rubrica_sprint5.pdf
+📥 [Descarregar rúbrica completa](./rubriques/rubrica_sprint5.pdf)
 
 ---
 
@@ -239,8 +223,8 @@ Pots consultar la rúbrica completa en:
 
 ## 🔗 Navegació
 
-📄 Document general:
-👉 link: ../README.md  
+📄 Document general de sprints: 
+👉 [General](../README.md)
 
-⬅️ Sprint anterior:
-👉 link: ./sprint4.md  
+⬅️ Sprint anterior: 
+👉 [Sprint 4](./sprint4.md)

@@ -112,8 +112,6 @@ Referències:
 - Provar components i serveis  
 - Verificar que el codi funciona correctament  
 
-👉 <!-- Ací pots explicar com executar tests en Angular -->
-
 ---
 
 ### 🔄 6. Revisió i millora
