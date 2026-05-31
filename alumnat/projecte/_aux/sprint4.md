@@ -33,6 +33,13 @@ Els objectius principals són:
 
 👉 Aquestos continguts permeten crear una aplicació interactiva i dinàmica.
 
+Referències: 
+
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#eventos" target="_blank" rel="noopener noreferrer">Esdeveniments</a>
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#dom" target="_blank" rel="noopener noreferrer">DOM</a>
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#dom-angular" target="_blank" rel="noopener noreferrer">DOM amb Angular</a>
+
+
 ---
 
 ### 📘 Unitat 8: Gestió d’estat i testing
@@ -44,6 +51,11 @@ Els objectius principals són:
 - Importància de provar el codi  
 
 👉 Es treballa la qualitat i mantenibilitat del projecte.
+
+Referències:
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#gestion-estado" target="_blank" rel="noopener noreferrer">Gestió d’estat</a>
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#testing" target="_blank" rel="noopener noreferrer">Testing</a>
+
 
 ---
 
@@ -143,52 +155,39 @@ S’haurà d’entregar:
 
 El projecte ha d’incloure:
 
----
 
-#### ✅ Funcionalitats obligatòries
-
-### ⚙️ Configuració de l’aplicació
+#### ⚙️ Configuració de l’aplicació
 
 - Configuració de nivells de Karma  
 - Categories i tipus  
 - Configuració general del sistema  
 
----
-
-### 📅 Gestió de l’any escolar
+#### 📅 Gestió de l’any escolar
 
 - Crear any escolar  
 - Activar/desactivar  
 - Eliminació  
 
----
-
-### 📊 Gestió d’avaluacions
+#### 📊 Gestió d’avaluacions
 
 - Crear avaluació  
 - Configurar puntuacions  
 - Iniciar o finalitzar avaluació  
 
----
-
-### ⭐ Gestió de puntuacions
+#### ⭐ Gestió de puntuacions
 
 - Afegir punts a alumnes  
-- Afegir punts a grups  
 - Reiniciar puntuacions  
 
----
-
-### 🧠 Funcionament tècnic
+#### 🧠 Funcionament tècnic
 
 - Manipulació del DOM  
 - Validació de formularis amb regex  
 - Gestió d’estat de l’aplicació  
 - Testing implementat  
 
----
 
-#### 🧪 Testing
+##### 🧪 Testing
 
 - Fitxers de test (`*.spec.ts`)  
 - Proves de components i serveis  
@@ -214,20 +213,6 @@ Cada alumne haurà d’incloure:
 
 ---
 
-## ✅ Criteris de qualitat
-
-En aquest sprint es valorarà especialment:
-
-- Interacció amb l’usuari  
-- Manipulació correcta del DOM  
-- Implementació del testing  
-- Gestió de l’estat  
-- Qualitat i mantenibilitat del codi  
-
-👉 Es treballen especialment RA4 i RA6 
-
----
-
 ## 📊 Rúbrica 
 
 👉 Els criteris d’avaluació que s’avaluen són ***tots els del RA4 i els del RA6***.
@@ -250,11 +235,11 @@ Pots consultar la rúbrica completa en:
 
 ## 🔗 Navegació
 
-📄 Document general:
-👉 link: ../README.md  
+📄 Document general de sprints: 
+👉 [General](../README.md)
 
-⬅️ Sprint anterior:
-👉 link: ./sprint3.md  
+⬅️ Sprint anterior: 
+👉 [Sprint 3](./sprint3.md)
 
-➡️ Següent sprint:
-👉 link: ./sprint5.md
+➡️ Següent sprint: 
+👉 [Sprint 5](./sprint5.md)

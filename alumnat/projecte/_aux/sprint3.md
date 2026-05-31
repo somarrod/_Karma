@@ -56,7 +56,6 @@ Referències:
 
 ## 🛠️ Desenvolupament del sprint
 
----
 
 ### 🔐 1. Implementació del login
 
@@ -201,11 +200,11 @@ Pots consultar la rúbrica completa en:
 
 ## 🔗 Navegació
 
-📄 Document general:
-👉 link: ../README.md  
+📄 Document general de sprints: 
+👉 [General](../README.md)
 
-⬅️ Sprint anterior:
-👉 link: ./sprint2.md  
+⬅️ Sprint anterior: 
+👉 [Sprint 2](./sprint2.md)
 
-➡️ Següent sprint:
-👉 link: ./sprint4.md
+➡️ Següent sprint: 
+👉 [Sprint 4](./sprint4.md)
