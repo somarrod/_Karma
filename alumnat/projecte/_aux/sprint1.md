@@ -78,8 +78,8 @@ Durant aquest sprint, el treball es divideix en diferents fases.
 - Instal·lació de les ferramentes necessàries: Visual Code, Git i Git Hub.  
 - Creació del projecte Angular  
 
-👉 # Ací explica o referència la guia de Git i GitHub  
-👉 ```link: ../../recursos/git-github/README.md```
+📄 # Ací explica o referència la guia de Git i GitHub  
+👉 [Ús Git-GitHub](../../recursos/git-github/README.md)
 
 ---
 
@@ -185,10 +185,7 @@ Encara que és el primer sprint, es valorarà:
 ## 🔗 Navegació
 
 📄 Document general de sprints:  
-👉 ```link: ../README.md```
+👉 [General](../README.md)
 
 ➡️ Següent sprint:  
-👉 ```link: ./sprint2.md```
-
-<!--#⬅️ Tornar a l’índex:  
-#👉 ```link: ./README.md```-->
+👉 [Sprint 2](./sprint2.md)
