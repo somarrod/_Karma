@@ -1,5 +1,9 @@
 # 🚀 Sprint 2
 
+
+## 📅 Data de lliurament
+***24 de novembre 2025***
+
 ---
 
 ## 🎯 Objectiu del sprint
@@ -125,7 +129,9 @@ Els objectius principals són:
 - Distribució de funcionalitats  
 - Coordinació amb Git i GitHub  
 
-👉 link: ../../recursos/git-github/README.md
+📄 # Ací pots trobar una guia ràpida de Git i GitHub  
+👉 [Ús Git-GitHub](../../recursos/git-github/README.md)
+
 
 👉 En aquest sprint és clau:
 - evitar conflictes
@@ -216,15 +222,17 @@ En aquest sprint es valorarà especialment:
 - Organització i estructura del codi  
 - Capacitat de treball en equip  
 
-👉 Es treballen especialment RA3, RA4 i RA7 【1-86a330】
+👉 Es treballen especialment RA3, RA4 i RA7 
 
 ---
 
 ## 📊 Rúbrica d’avaluació
 
+👉 Els criteris d’avaluació que s’avaluen són ***tots els del RA3, tots els de R4 i els del RA7***.
+
 Pots consultar la rúbrica completa en:
 
-📥 ./rubriques/rubrica_sprint2.pdf
+📥 [Rúbrica](./rubriques/rubrica_sprint2.pdf)
 
 ---
 
@@ -240,11 +248,11 @@ Pots consultar la rúbrica completa en:
 
 ## 🔗 Navegació
 
-📄 Tornar a l’índex general:
-👉 link: ../README.md  
+📄 Document general de sprints:  
+👉 [General](../README.md)
 
 ⬅️ Sprint anterior:
-👉 link: ./sprint1.md  
+👉 [Sprint 1](./sprint1.md)
 
 ➡️ Següent sprint:
-👉 link: ./sprint3.md
+👉 [Sprint 3](./sprint3.md)

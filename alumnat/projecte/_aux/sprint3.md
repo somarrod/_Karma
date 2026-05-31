@@ -1,5 +1,8 @@
 # 🚀 Sprint 3
 
+## 📅 Data de lliurament
+***9 de desembre 2025***
+
 ---
 
 ## 🎯 Objectiu del sprint
@@ -108,7 +111,9 @@ Els objectius principals són:
 - Mantindre organització en tasques  
 - Revisar millores pendents de l’sprint 2  
 
-👉 link: ../../recursos/git-github/README.md
+📄 # Ací pots trobar una guia ràpida de Git i GitHub  
+👉 [Ús Git-GitHub](../../recursos/git-github/README.md)
+
 
 👉 En aquest sprint és important:
 - treball coordinat  
@@ -188,15 +193,15 @@ En aquest sprint es valorarà especialment:
 - Integració amb backend  
 - Qualitat del codi  
 
-👉 Es treballen especialment RA5 i RA7 【1-2db0cf】
-
 ---
 
 ## 📊 Rúbrica d’avaluació
 
+👉 Els criteris d’avaluació que s’avaluen són ***tots els del RA2 i els del RA4***.
+
 Pots consultar la rúbrica completa en:
 
-📥 ./rubriques/rubrica_sprint3.pdf
+📥 [Descarregar rúbrica completa](./rubriques/rubrica_sprint3.pdf)
 
 ---
 

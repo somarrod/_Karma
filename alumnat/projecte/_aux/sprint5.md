@@ -1,5 +1,9 @@
 # 🚀 Sprint 5
 
+
+## 📅 Data de lliurament
+***12 de febrer 2025***
+
 ---
 
 ## 🎯 Objectiu del sprint

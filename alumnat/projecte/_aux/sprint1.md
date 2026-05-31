@@ -1,5 +1,8 @@
 # 🚀 Sprint 1
 
+## 📅 Data de lliurament
+***7 d'octubre 2025***
+
 ## 🎯 Objectiu del sprint
 
 Aquest primer sprint representa una **presa de contacte inicial amb el projecte KarmaCli i amb Angular**.
@@ -78,7 +81,7 @@ Durant aquest sprint, el treball es divideix en diferents fases.
 - Instal·lació de les ferramentes necessàries: Visual Code, Git i Git Hub.  
 - Creació del projecte Angular  
 
-📄 # Ací explica o referència la guia de Git i GitHub  
+📄 # Ací pots trobar una guia ràpida de Git i GitHub  
 👉 [Ús Git-GitHub](../../recursos/git-github/README.md)
 
 ---

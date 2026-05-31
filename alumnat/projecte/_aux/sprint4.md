@@ -1,5 +1,8 @@
 # 🚀 Sprint 4
 
+## 📅 Data de lliurament
+***26 de gener 2025***
+
 ---
 
 ## 🎯 Objectiu del sprint
@@ -115,7 +118,8 @@ Els objectius principals són:
 - Repartir funcionalitats (DOM, testing, formularis, etc.)  
 - Revisar el treball anterior  
 
-👉 link: ../../recursos/git-github/README.md
+📄 # Ací pots trobar una guia ràpida de Git i GitHub  
+👉 [Ús Git-GitHub](../../recursos/git-github/README.md)
 
 👉 En aquest sprint és important:
 - revisió de codi dels companys  
@@ -220,15 +224,17 @@ En aquest sprint es valorarà especialment:
 - Gestió de l’estat  
 - Qualitat i mantenibilitat del codi  
 
-👉 Es treballen especialment RA4 i RA6 【1-0ed7cf】
+👉 Es treballen especialment RA4 i RA6 
 
 ---
 
-## 📊 Rúbrica d’avaluació
+## 📊 Rúbrica 
+
+👉 Els criteris d’avaluació que s’avaluen són ***tots els del RA4 i els del RA6***.
 
 Pots consultar la rúbrica completa en:
 
-📥 ./rubriques/rubrica_sprint4.pdf
+📥 [Descarregar rúbrica completa](./rubriques/rubrica_sprint4.pdf)
 
 ---
 
