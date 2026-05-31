@@ -32,6 +32,10 @@ Els objectius principals són:
 
 👉 Aquestos continguts permeten protegir l’aplicació.
 
+Referències:
+
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#autenticacion" target="_blank">Autentificació</a>
+
 ---
 
 ### 📘 Unitat 6: Validació de formularis
@@ -42,6 +46,11 @@ Els objectius principals són:
 - Integració de validació amb formularis existents  
 
 👉 Es treballa la qualitat de les dades i l’experiència d’usuari.
+
+Referències:
+
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#formularios" target="_blank">Formularis</a>
+
 
 ---
 
@@ -107,7 +116,7 @@ Els objectius principals són:
 
 ## 👥 Organització del treball
 
-- Continuar treballant en grups de 3  
+- Continuar treballant en el mateix grup dels sprints anteriors 
 - Mantindre organització en tasques  
 - Revisar millores pendents de l’sprint 2  
 
@@ -135,63 +144,39 @@ S’haurà d’entregar:
 - Enllaç al repositori  
 - Branca: `sprint3`  
 
-El projecte ha d’incloure:
-
----
-
-#### ✅ Funcionalitats obligatòries
-
-### 🔐 Autenticació i autorització
+#### 🔐 Autenticació i autorització
 
 - Login funcional  
 - Validació contra backend  
 - Control d’accés segons rol  
 
----
 
-### 👥 Gestió d’usuaris
+#### 👥 Gestió d’usuaris
 
 - Donar accés a usuaris  
-- Bloquejar i desbloquejar usuaris  
+- Activar i desactivar usuaris  
 - Crear i eliminar administradors  
 
----
-
-### ✅ Validació de formularis
+#### ✅ Validació de formularis
 
 - Validació de camps obligatoris  
 - Validació de formats  
 - Formularis revisats abans d’enviar  
 
----
-
-### 🌐 Comunicació amb servidor
+#### 🌐 Comunicació amb servidor
 
 - Peticions HTTP correctes  
 - Validació de dades  
 - Integració amb funcionalitats  
 
----
 
-## 📄 2. Document individual
+### 📄 2. Document individual
 
 Cada alumne haurà de descriure:
 
 - Treball realitzat  
 - Aportació de cada membre  
 - Funcionament del grup  
-
----
-
-## ✅ Criteris de qualitat
-
-En aquest sprint es valorarà especialment:
-
-- Seguretat del projecte  
-- Control correcte de rols  
-- Validació de dades  
-- Integració amb backend  
-- Qualitat del codi  
 
 ---
 
@@ -207,7 +192,6 @@ Pots consultar la rúbrica completa en:
 
 ## 💡 Recomanacions
 
-- No implementes el login “de mentida”  
 - Prova bé els rols d’usuari  
 - No deixes la validació per al final  
 - Revisa tots els formularis del projecte  

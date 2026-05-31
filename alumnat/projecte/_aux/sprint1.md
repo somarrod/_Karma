@@ -150,18 +150,6 @@ El projecte ha d’incloure:
 
 ---
 
-## ✅ Criteris de qualitat
-
-Encara que és el primer sprint, es valorarà:
-
-- Claredat del disseny  
-- Organització del codi  
-- Neteja i llegibilitat  
-- Participació de tots els membres  
-- Documentació del procés  
-
----
-
 ## 📊 Rúbrica d’avaluació
 
 - 40% Disseny de la interfície

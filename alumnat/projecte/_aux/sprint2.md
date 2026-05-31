@@ -35,6 +35,12 @@ Els objectius principals són:
 
 👉 Aquestos continguts permeten estructurar la lògica del projecte i gestionar dades reals.
 
+Referències:
+
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#objetos-predefinidos" target="_blank">Objectes predefinits</a>
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#funciones" target="_blank">Funcions</a>
+
+
 ---
 
 ### 📘 Unitat 4: Comunicació asíncrona
@@ -48,6 +54,10 @@ Els objectius principals són:
 
 👉 Ací és on l’aplicació comença a connectar amb dades reals.
 
+Referències:
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#comunicacion-asincrona" target="_blank">Comunicació asíncrona</a>
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#aplicaciones-dinamicas" target="_blank">Aplicacions dinàmiques</a>
+
 ---
 
 ## 🛠️ Desenvolupament del sprint
@@ -60,7 +70,7 @@ Els objectius principals són:
 - Comprovar que el servidor funciona correctament  
 - Explorar endpoints amb Postman o Swagger  
 
-👉 <!-- Ací pots incloure instruccions de docker / backend -->
+👉 [Ús Docker](../../recursos/docker/README.md)
 
 ---
 
@@ -171,7 +181,7 @@ El projecte ha d’incloure:
 
 3. **Funcionalitat avançada**
    - Assignació d’alumnes a grups  
-   - Assignació de professors  
+   - Assignació de professors a classes 
 
 4. **Connexió amb backend**
    - Peticions HTTP  
@@ -212,20 +222,6 @@ Cada alumne haurà d’incloure:
 
 ---
 
-## ✅ Criteris de qualitat
-
-En aquest sprint es valorarà especialment:
-
-- Funcionament real del projecte  
-- Connexió amb API  
-- Generació dinàmica de dades  
-- Organització i estructura del codi  
-- Capacitat de treball en equip  
-
-👉 Es treballen especialment RA3, RA4 i RA7 
-
----
-
 ## 📊 Rúbrica d’avaluació
 
 👉 Els criteris d’avaluació que s’avaluen són ***tots els del RA3, tots els de R4 i els del RA7***.
@@ -248,11 +244,11 @@ Pots consultar la rúbrica completa en:
 
 ## 🔗 Navegació
 
-📄 Document general de sprints:  
+📄 Document general de sprints: 
 👉 [General](../README.md)
 
-⬅️ Sprint anterior:
+⬅️ Sprint anterior: 
 👉 [Sprint 1](./sprint1.md)
 
-➡️ Següent sprint:
+➡️ Següent sprint: 
 👉 [Sprint 3](./sprint3.md)
