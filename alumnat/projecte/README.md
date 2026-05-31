@@ -17,16 +17,16 @@ En la imatge anterior es mostra una visió global de l’evolució del projecte 
 Els sprints es distribueixen al llarg de les dues avaluacions. La 3ª avaluació es dedicarà al concurs.
 
 ### 🧪 1ª avaluació  - 27 novembre 2025
-- [Sprint 1](./sprint1.md)
-- [Sprint 2](./sprint2.md)
+- [Sprint 1](./_aux/sprint1.md)
+- [Sprint 2](./_aux/sprint2.md)
 
 ### 🧪 2ª avaluació - 19 febrer 2026
-- [Sprint 3](./sprint3.md)
-- [Sprint 4](./sprint4.md)
-- [Sprint 5](./sprint5.md)
+- [Sprint 3](./_aux/sprint3.md)
+- [Sprint 4](./_aux/sprint4.md)
+- [Sprint 5](./_aux/sprint5.md)
 
 ### 🧪 3ª avaluació - 11 maig 2026
-- [Concurs](./concurs.md)
+- [Concurs](./_aux/concurs.md)
 
 ---
 ## 🧩 Enfocament del projecte

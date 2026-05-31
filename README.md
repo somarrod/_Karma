@@ -8,14 +8,14 @@
 
 ## 🙏 Agraïments
 Vull expressar el meu sincer agraïment a l’institut **IES Camp del Túria de Llíria**, origen del projecte CoDAvant i de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
-També vull expressar el meu agraïment a **Reina Peiró Arnau**, alumna de MUPES, i que va ser junt a mi, autora de la 1ª versió d'aquest projecte KarmaCli orientat al mòdul de DWEC i als nostres futurs alumnes.
+També vull expressar el meu agraïment a **Reina Peiró Arnau**, alumna de MUPES, i que junt amb mi, és co-autora de la 1ª versió d'aquest projecte KarmaCli - Quin Karma tinc hui?, definit per al mòdul de DWEC.
 
 ## ✨Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat *KarmaCli* utilitzant el framework Angular. El desenvolupament de *KarmaCli* permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el servidor *KarmaWebApi* i la base de dades *KarmaDB* disponibles mitjançant Docker.
 
 ## 📑Presentació
-Presentació del treball de l'assignatura de Didàctica II: <a href="https://www.canva.com/design/DAGo_iIjeL8/RCssVuZnBtJYSI46sx7P3A/edit?utm_content=DAGo_iIjeL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗Accedir</a>
+Presentació del treball: <a href="https://www.canva.com/design/DAGo_iIjeL8/RCssVuZnBtJYSI46sx7P3A/edit?utm_content=DAGo_iIjeL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗Accedir</a>
 
 
 ## 🎯 Objectius del projecte
@@ -39,6 +39,6 @@ Els objectius estan alineats amb les competències professionals del cicle forma
   - **<a href="https://github.com/somarrod/_Karma/tree/main/professorat/avaluaci%C3%B3" target="_blank">avaluació:</a>**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
-   - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
+    - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
 	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
-	-  **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
+	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 

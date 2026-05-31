@@ -79,7 +79,7 @@ Durant aquest sprint, el treball es divideix en diferents fases.
 - Creació del projecte Angular  
 
 👉 # Ací explica o referència la guia de Git i GitHub  
-👉 ```link: ../recursos/git-github/README.md```
+👉 ```link: ../../recursos/git-github/README.md```
 
 ---
 
@@ -185,7 +185,7 @@ Encara que és el primer sprint, es valorarà:
 ## 🔗 Navegació
 
 📄 Document general de sprints:  
-👉 ```link: ./README.md```
+👉 ```link: ../README.md```
 
 ➡️ Següent sprint:  
 👉 ```link: ./sprint2.md```
