@@ -1,8 +1,8 @@
 ## 🚀 Projecte KarmaCli
 
-Aquest repositori conté tot el necessari per a que l'alumne puga desenvolupar el projecte **KarmaCli – Quin Karma tinc hui?**. Una aplicació web a realitzar amb Angular i que s’utilitzarà com a fil conductor per al mòdul de Desenvolupament Web en Entorn Client (DWEC).
+Aquest repositori conté tot el necessari per a que l'alumne puga desenvolupar el projecte **KarmaCli – Quin Karma tinc hui?**. Una aplicació web a desenvolupar amb Angular i que s’utilitzarà com a fil conductor per al mòdul de Desenvolupament Web en Entorn Client (DWEC).
 
-El projecte està dissenyat per a treballar-se al llarg del curs mitjançant una metodologia activa basada en projectes, organitzada en diferents sprints, amb l’objectiu de permetre a l’alumnat assolir els resultats d’aprenentatge del mòdul.
+El projecte està dissenyat per a ser treballat al llarg del curs mitjançant una metodologia activa basada en projectes, organitzada en diferents sprints, amb l’objectiu de permetre a l’alumnat assolir els resultats d’aprenentatge del mòdul.
 
 ---
 
