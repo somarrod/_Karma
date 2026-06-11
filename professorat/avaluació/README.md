@@ -33,8 +33,9 @@ La plantilla està organitzada en diferents tipus de pestanyes:
   - Notes per resultat d’aprenentatge
   - Indicador visual (semàfor) 
 
-👉 És la pestanya principal de la plantilla.
+👉 És la pestanya principal de la plantilla.   
 ⚠️ La nota global es calcula per a tots els RAs. Si vols un altre tipus de càlcul, l'hauràs de modificar.
+
 ---
 
 ### 📊 Pestanyes per **Resultats d’Aprenentatge (RA-1, RA-2, …)**
@@ -60,7 +61,7 @@ La plantilla està organitzada en diferents tipus de pestanyes:
 
 ---
 
-### 👤 Pestanyes individuals
+### 👤 Pestanyes d’**Alumne**
 
 - Permeten anotar:
   - Observacions
@@ -121,7 +122,8 @@ Si necessites afegir més evidències:
 - 💾 Guarda còpia abans de modificar
 - 👀 Combina sempre:
   - dades (Excel)
-  - observació (docent)
+  - observació (docent)  
+  
 ⚠️ Recorda: Còpia la plantilla en un lloc segur. No es poden guardar dades dels alumnes en GitHub.
 
 ---
