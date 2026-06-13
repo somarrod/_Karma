@@ -169,7 +169,7 @@ El projecte ha d’incloure:
 - Adaptació de la interfície  
 
 
-## 🎤 2. Presentació final
+### 🎤 2. Presentació final
 
 Cada grup haurà de:
 
@@ -182,7 +182,7 @@ Cada grup haurà de:
 - 7 minuts preguntes  
 
 
-## 📄 3. Reflexió individual
+### 📄 3. Reflexió individual
 
 Cada alumne haurà d’incloure:
 
