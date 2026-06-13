@@ -7,7 +7,7 @@ El desenvolupament del projecte **KarmaCli – Quin Karma tinc hui?** s’organi
 
 <!-- 👉 ACI HAS D'INSERIR LA IMATGE DE RESUM DELS SPRINTS -->
 <!-- Pots posar-la així: -->
-<img src="./img/img_temporalitzacio.png" width="800">
+<img src="./_aux/img/img_temporalitzacio.png" width="800">
 
 En la imatge anterior es mostra una visió global de l’evolució del projecte al llarg dels diferents sprints, així com la seua distribució temporal.
 
