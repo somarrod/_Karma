@@ -33,10 +33,8 @@ Els objectius principals són:
 
 👉 Aquestos conceptes permeten millorar la qualitat global de l’aplicació.
 
-Referències:
+Referència:
 - <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#optimizacion" target="_blank" rel="noopener noreferrer">Optimització</a>
-- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#internacionalizacion" target="_blank" rel="noopener noreferrer">Internacionalització</a>
-
 
 ---
 
@@ -48,11 +46,12 @@ Referències:
 
 👉 Es treballa una característica clau en aplicacions reals.
 
+Referència:
+- <a href="https://xxjcaxx.github.io/libro_dwec/intro.html#internacionalizacion" target="_blank" rel="noopener noreferrer">Internacionalització</a>
 ---
 
 ## 🛠️ Desenvolupament del sprint
 
----
 
 ### ⚡ 1. Optimització del projecte
 
@@ -62,7 +61,6 @@ Referències:
 
 👉 L’objectiu és una aplicació més ràpida i eficient.
 
----
 
 ### 🌍 2. Internacionalització
 
@@ -72,7 +70,6 @@ Referències:
 
 👉 L’aplicació ha de ser adaptable a diferents contextos.
 
----
 
 ### 🧑‍💼 3. Gestió de privilegis
 
@@ -82,7 +79,6 @@ Referències:
 
 👉 Es completa el sistema iniciat en l’sprint 3.
 
----
 
 ### 📊 4. Visualització del Karma
 
@@ -92,7 +88,6 @@ Referències:
 
 👉 Aquesta part és molt important de cara a la presentació.
 
----
 
 ### 📄 5. Informes
 
@@ -102,7 +97,6 @@ Referències:
 
 👉 Donen valor real a l’aplicació per al professorat.
 
----
 
 ### 🔄 6. Revisió final
 
@@ -174,7 +168,6 @@ El projecte ha d’incloure:
 - Suport per a diferents idiomes  
 - Adaptació de la interfície  
 
----
 
 ## 🎤 2. Presentació final
 
@@ -188,7 +181,6 @@ Cada grup haurà de:
 - 18 minuts presentació  
 - 7 minuts preguntes  
 
----
 
 ## 📄 3. Reflexió individual
 
