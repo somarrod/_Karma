@@ -39,7 +39,7 @@ Conté la informació principal del projecte:
 - Sistema d’avaluació  
 
 👉 Comença per ací per seguir el projecte pas a pas:  
-➡️ ./projecte/README.md
+➡️ (./projecte/README.md)
 
 ---
 
@@ -68,7 +68,7 @@ El projecte utilitza un backend anomenat **KarmaWebApi**, junt amb la base de da
 
 Si vols treballar només amb el backend, també tens els fonts disponibles:
 
-👉 https://github.com/somarrod/KarmaWebApi
+👉 (https://github.com/somarrod/KarmaWebApi)
 
 ---
 
