@@ -36,6 +36,9 @@ Els objectius estan alineats amb les competències professionals del cicle forma
   - **<a href="https://github.com/somarrod/_Karma/tree/tfm/professorat/avaluaci%C3%B3" target="_blank">avaluació:</a>**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
+    - **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/avaluaci%C3%B3" target="_blank">avaluació</a>**: conté informació sobre l'avaluació. 
     - **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
-	- **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
-	- **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
+  	- **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
+	  - **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
+  
+  
