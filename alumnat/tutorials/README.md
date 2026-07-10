@@ -46,4 +46,4 @@ A continuació es presenten les opcions recomanades:
 ---
 
 💡 *Et recomane guardar aquests enllaços com a favorits per tindre'ls sempre a mà!*
-👉 Aquesta forma de treball i d’aprenentatge autònom presenta grans similituds amb la realitat de l’entorn professional, on sovint és necessari cercar informació, contrastar fonts i adquirir nous coneixements de manera independent per resoldre problemes concrets.
+
