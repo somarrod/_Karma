@@ -4,7 +4,7 @@
 > **TFM:** Desenvolupament del projecte Karma mitjançant una arquitectura client-servidor per a l’alumnat de Desenvolupament Web en Entorn Client  
 > **Mòdul:** DWEC – Desenvolupament Web en Entorn Client  
 > **Cicle:** 2n de DAW – Desenvolupament d’Aplicacions Web
-``
+
 
 ## 🙏 Agraïments
 Vull expressar el meu sincer agraïment a l’institut **IES Camp del Túria de Llíria**, origen del projecte CoDAvant i de la idea inicial del projecte Karma. La seua inspiració i enfocament innovador han estat fonamentals per al desenvolupament d’aquesta adaptació didàctica. Sense el seu treball previ, aquest projecte no hauria sigut possible.
@@ -13,9 +13,6 @@ També vull expressar el meu agraïment a **Reina Peiró Arnau**, alumna de MUPE
 ## ✨Introducció
 Els resultats d’aprenentatge del mòdul DWEC van treballar-se mitjançant el desenvolupament d'un projecte anomenat *KarmaCli* utilitzant el framework Angular. El desenvolupament de *KarmaCli* permetrà els alumnes adquirir els resultats d'aprenentatge definits en el mòdul.
 Es proporcionarà a l'alumnat el servidor *KarmaWebApi* i la base de dades *KarmaDB* disponibles mitjançant Docker.
-
-## 📑Presentació
-Presentació del treball: <a href="https://www.canva.com/design/DAGo_iIjeL8/RCssVuZnBtJYSI46sx7P3A/edit?utm_content=DAGo_iIjeL8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">🔗Accedir</a>
 
 
 ## 🎯 Objectius del projecte
@@ -34,11 +31,11 @@ Els objectius estan alineats amb les competències professionals del cicle forma
 - **_recursos_originals**: documents originals utilitzats en el projecte per a que els docents puguen modificar-los si ho necessiten. Es troben en format: docx, xlsx, codi font de *KarmaWebApi*, etc.   
 
 - **professorat**: documentació i informació per a la professora del mòdul
-  - **<a href="https://github.com/somarrod/_Karma/blob/main/professorat/Guia%20did%C3%A0ctica%20professorat.pdf" target="_blank">Guia didàctica professorat.pdf</a>**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
-  - **<a href="https://github.com/somarrod/_Karma/blob/main/professorat/DWEC%20RA%2C%20CA%20i%20Continguts.pdf" target="_blank">DWEC - RA, CA i Continguts.pdf</a>**: Relació entre els resultats d'aprenentatge, criteris d'avaluació i els continguts del mòdul DWEC.
-  - **<a href="https://github.com/somarrod/_Karma/tree/main/professorat/avaluaci%C3%B3" target="_blank">avaluació:</a>**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
+  - **<a href="https://github.com/somarrod/_Karma/blob/tfm/professorat/Guia%20did%C3%A0ctica%20per%20al%20professorat%202025-2026.pdf" target="_blank">Guia didàctica professorat.pdf</a>**: Document pdf amb la guia didàctica completa per al professorat. Inclou informació com la programació, la temporalització, les ferramentes d'avaluació, etc.
+  - **<a href="https://github.com/somarrod/_Karma/blob/tfm/professorat/DWEC%20RA%2C%20CA%20i%20Continguts.pdf" target="_blank">DWEC - RA, CA i Continguts.pdf</a>**: Relació entre els resultats d'aprenentatge, criteris d'avaluació i els continguts del mòdul DWEC.
+  - **<a href="https://github.com/somarrod/_Karma/tree/tfm/professorat/avaluaci%C3%B3" target="_blank">avaluació:</a>**  Conté l'excel d'avaluació. Match entre sprints, ponderacions i criteris d'avaluació-
   
 - **alumnat**: documentació i informació per a l'alumnat
-    - **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
-	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
-	- **<a href="https://github.com/somarrod/_Karma/tree/main/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
+    - **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/projecte" target="_blank">projecte</a>**: descripció dels sprints
+	- **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/recursos" target="_blank">recursos</a>**: en aquest directori els alumnes tindran els recursos dels que disposen.
+	- **<a href="https://github.com/somarrod/_Karma/tree/tfm/alumnat/tutorials" target="_blank">tutorials</a>**: conté els tutorials/cursos que utilitzarem durant el curs. 
